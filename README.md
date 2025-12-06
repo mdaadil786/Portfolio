@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio — Md Aadil
 
-This is my personal portfolio website built using **Spring Boot**, **HTML**, **CSS**, and **JavaScript**.  
+This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
 It showcases my skills, projects, experience, achievements, and contact information in a clean and modern UI.
 
 ---
@@ -36,12 +36,8 @@ It showcases my skills, projects, experience, achievements, and contact informat
 - HTML5  
 - CSS3  
 - JavaScript  
-- Animations & transitions  
-
-### **Backend**
-- Java  
-- Spring Boot  
-- Maven  
+- Animations & transitions
+- 
 
 ### **Tools**
 - IntelliJ IDEA  
