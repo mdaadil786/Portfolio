@@ -23,13 +23,6 @@ It showcases my skills, projects, experience, achievements, and contact informat
 - **Footer** – Auto year update
 
 
-### ✅ Backend (Spring Boot)
-- Hosted using Spring Boot static resources  
-- Serves HTML, CSS, JS, and images from `/static`  
-- Fast and lightweight  
-
----
-
 ## 🛠️ Technologies Used
 
 ### **Frontend**
@@ -43,8 +36,10 @@ It showcases my skills, projects, experience, achievements, and contact informat
 - Git & GitHub
 
 ## 🖼️ Screenshots
-<img width="1880" height="809" alt="Screenshot 2025-12-07 005949" src="https://github.com/user-attachments/assets/f6213f38-3eed-4504-90aa-cdf403386748" />
+<img width="1696" height="611" alt="image" src="https://github.com/user-attachments/assets/b29e7cb7-e8fc-48b7-addd-ff84e5c5e3d7" />
+
 <img width="1649" height="731" alt="image" src="https://github.com/user-attachments/assets/ef9d6ca9-2afb-48ab-86a6-e6b51a536c65" />
+
 <img width="1462" height="706" alt="image" src="https://github.com/user-attachments/assets/745ecac0-9e16-4dc2-89aa-b3def7c7907f" />
 
 
