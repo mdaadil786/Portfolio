@@ -3,7 +3,7 @@
 This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
 It showcases my skills, projects, experience, achievements, and contact information in a clean and modern UI.
 
----
+
 
 ## 🚀 Features
 
@@ -37,7 +37,6 @@ It showcases my skills, projects, experience, achievements, and contact informat
 - CSS3  
 - JavaScript  
 - Animations & transitions
-- 
 
 ### **Tools**
 - IntelliJ IDEA  
@@ -45,28 +44,8 @@ It showcases my skills, projects, experience, achievements, and contact informat
 
 ## 🖼️ Screenshots
 <img width="1880" height="809" alt="Screenshot 2025-12-07 005949" src="https://github.com/user-attachments/assets/f6213f38-3eed-4504-90aa-cdf403386748" />
-
-
-
-
-## 📁 Project Structure
-
-src/
-└── main/
-├── java/
-│ └── portfolio/
-│ └── PortfolioApplication.java
-├── resources/
-│ ├── static/
-│ │ ├── css/
-│ │ │ └── styles.css
-│ │ ├── js/
-│ │ │ └── script.js
-│ │ ├── img/
-│ │ │ ├── avatar.png
-│ │ │ └── icons...
-│ │ └── index.html
-│ └── application.properties
+<img width="1649" height="731" alt="image" src="https://github.com/user-attachments/assets/ef9d6ca9-2afb-48ab-86a6-e6b51a536c65" />
+<img width="1462" height="706" alt="image" src="https://github.com/user-attachments/assets/745ecac0-9e16-4dc2-89aa-b3def7c7907f" />
 
 
 
